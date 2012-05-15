@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+  <name>Sheung Yiu Country Trail</name>
+  <Placemark>
+    <name>C5501</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>114.322403,22.386835,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C5502</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>114.326302,22.385998,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C5503</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>114.326332,22.384192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C5504</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.328323,22.381517,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C5505</name>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>114.332245,22.379776,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C5506</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>114.335121,22.381630,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

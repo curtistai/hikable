@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+  <name>Lung Ha Wan Country Trail</name>
+  <Placemark>
+    <name>C3201</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>114.302788,22.296240,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3202</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>114.304657,22.299881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3203</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>114.303619,22.303474,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3204</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.302582,22.307068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

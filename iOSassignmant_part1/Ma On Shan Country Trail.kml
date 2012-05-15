@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+  <name>Ma On Shan Country Trail</name>
+  <Placemark>
+    <name>C3301</name>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>114.239525,22.405300,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3302</name>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>114.244415,22.403578,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3303</name>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>114.245438,22.400888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3304</name>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>114.248421,22.397327,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3305</name>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>114.250397,22.395555,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3306</name>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>114.252426,22.391077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3307</name>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>114.254425,22.388403,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>C3308</name>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>114.258339,22.386663,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
